@@ -5,7 +5,7 @@ Taxonomy used by CyCAT.org, the Cybersecurity Resource Catalogue, to categorize 
 
 # Format
 
-The CyCAT.org taxonomy is [available in JSON format](https://github.com/CyCat-project/cycat-taxonomy/blob/main/json/machinetag.json).
+The CyCAT.org taxonomy is [available in JSON format](https://github.com/CyCat-project/cycat-taxonomy/blob/main/json/machinetag.json) and [yaml format](https://github.com/CyCat-project/cycat-taxonomy/blob/main/yaml/machinetag.yaml).
 
 # Goal
 
@@ -13,11 +13,11 @@ The taxonomy will be used on the CyCAT.org portal to classify and label the reso
 
 # Contributing
 
-- Fork the repository, update the JSON and propose your changes via a pull-request.
+- Fork the repository, update the JSON or yaml and propose your changes via a pull-request.
 
 # License
 
-The CyCAT.org taxonomy (JSON files) are dual-licensed under:
+The CyCAT.org taxonomy (JSON/yaml files) are dual-licensed under:
 
 - [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode) (CC0 1.0) - Public Domain Dedication.
 
