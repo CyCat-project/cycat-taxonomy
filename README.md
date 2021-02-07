@@ -5,7 +5,7 @@ Taxonomy used by CyCAT.org, the Universal Cybersecurity Resource Catalogue, to c
 
 # Format
 
-The CyCAT.org taxonomy is [available in JSON format](https://github.com/CyCat-project/cycat-taxonomy/blob/main/json/machinetag.json).
+The CyCAT.org taxonomy is [available in JSON format](https://github.com/CyCat-project/cycat-taxonomy/blob/main/json/machinetag.json) and [yaml format](https://github.com/CyCat-project/cycat-taxonomy/blob/main/yaml/machinetag.yaml).
 
 # Goal
 
