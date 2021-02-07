@@ -1,7 +1,7 @@
 ---
 namespace: cycat
-expanded: Universal Cybersecurity Resource Catalogue
-description: Taxonomy used by CyCAT, the Universal Cybersecurity Resource Catalogue,
+expanded: Cybersecurity Resource Catalogue
+description: Taxonomy used by CyCAT, the Cybersecurity Resource Catalogue,
   to categorize the namespaces it supports and uses.
 version: 1
 refs:
