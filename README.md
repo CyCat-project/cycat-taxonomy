@@ -1,7 +1,7 @@
 
 # CyCAT.org taxonomy
 
-Taxonomy used by CyCAT.org, the Universal Cybersecurity Resource Catalogue, to categorize the namespaces it supports and uses.
+Taxonomy used by CyCAT.org, the Cybersecurity Resource Catalogue, to categorize the namespaces it supports and uses.
 
 # Format
 
