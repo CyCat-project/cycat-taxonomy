@@ -52,6 +52,9 @@ values:
   - value: dataset
     expanded: Dataset
     description: Dataset for validation of detections and tool stacks,
+  - value: configuration
+    expanded: Configuration
+    description: A configuration describes the state or environment conditions of a tool.
 - predicate: scope
   entry:
   - value: identify
@@ -70,6 +73,8 @@ values:
     expanded: Investigate
   - value: train
     expanded: Train
+  - value: reset
+    expanded: Reset    
   - value: test
     expanded: Test
 predicates:
