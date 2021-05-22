@@ -3,7 +3,7 @@ namespace: cycat
 expanded: " Cybersecurity Resource Catalogue"
 description: Taxonomy used by CyCAT, the Cybersecurity Resource Catalogue, to categorize
   the namespaces it supports and uses.
-version: 2
+version: 3
 refs:
 - https://www.cycat.org/
 values:
@@ -56,6 +56,10 @@ values:
     expanded: Data format
     description: Data structure and format to describe elements in the cybersecurity
       field.
+  - value: configuration
+    expanded: Configuration
+    description: A configuration describes the state or environment conditions of
+      a tool.
 - predicate: scope
   entry:
   - value: identify
@@ -74,6 +78,8 @@ values:
     expanded: Investigate
   - value: train
     expanded: Train
+  - value: reset
+    expanded: Reset
   - value: test
     expanded: Test
 predicates:
